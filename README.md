@@ -1,4 +1,2 @@
-# hive_invaders
-A bee-themed approach to the arcade game Space Invaders. Written in Python using Tkinter.
-
-To run, ensure that the included PNG images are in the program's working directory.
+# Hive Invaders
+2D arcade-style game, based on Space Invaders, using Python and Tkinter. A player-controlled entity, represented by a bee sprite, shoots down enemy wasps using honey-spit projectiles. Wasps move horizontally across the screen in waves, working their way down the screen. Implements collision detection, game-over conditions, and victory conditions. Game-over if any wasp touches the bottom of the screen. Victory if all wasps are destroyed. Player is prompted with"play again or quit" when either condition is met. If play-again is selectioned, both of the two color-type of wasps will have their "difficulty" increased, one more-so than the other, making wasps move with greater speed. Object-oriented programming principles to organize code into modular classes for bees, wasps, and projectiles. With additionally incorporated randomization for enemy color-type spawn locations and custom-made sprites to enhance gameplay.
