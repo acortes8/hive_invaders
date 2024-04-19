@@ -13,7 +13,7 @@ Game-play:
 ![image](https://github.com/acortes8/hive_invaders/assets/46253800/2ad1b240-f854-43ae-ade4-9165580f72a0)  
 4. If you lose, a prompt will appear, letting you know of your defeat, and asking if you would like to play again or quit.  
 ![image](https://github.com/acortes8/hive_invaders/assets/46253800/1893822a-812e-4480-af8f-2b272635cfd4)  
-6. If you win, by destroying all wasps, a prompt will appear, letting you know of your victory, and ask the form question again.  
+6. If you win, by destroying all wasps, a prompt will appear, letting you know of your victory, and will ask the former question again.  
 ![image](https://github.com/acortes8/hive_invaders/assets/46253800/b52c1c66-b89f-43e3-b28f-04923ae70b25)  
 7. If you select play again, the difficulty of the game will increase. Both the red and blue wasps will move faster now, but the blue in particular will be even faster than the red. Making the task of landing shots more difficult, and giving you less time before they reach the bottom of your screen.  
 ![image](https://github.com/acortes8/hive_invaders/assets/46253800/86e755c3-f379-4eea-ad43-3da042918fa2)  
